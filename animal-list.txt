@@ -1,0 +1,10 @@
+perro
+gato
+pájaro
+pez
+león
+elefante
+serpiente
+mono
+tigre
+oso
